@@ -56889,7 +56889,7 @@ p=4
 m.a=new T.k9(V.cm())
 k=m.gu8()
 j=t.N
-i=P.H(["email",a,"url","https://cotizapack-fd152.web.app/auth/recovery/reset"],j,t.z)
+i=P.H(["email",a,"url","https://panel.cotizapack.com/auth/recovery/reset"],j,t.z)
 s=7
 return P.o(k.a.$4$headers$params$path(C.iy,P.H(["content-type","application/json"],j,j),i,"/account/recovery"),$async$EY)
 case 7:l=c
